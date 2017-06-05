@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="322" it="0" lt="133" ct="96" ts="1496319122895" s="true" lb="Google Home Page" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15523" sby="404" ng="1" na="1">
+  <httpSample t="133" it="0" lt="133" ct="96" ts="1496319122895" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="507" sby="183" ng="1" na="1"/>
+  <httpSample t="187" it="0" lt="184" ct="18" ts="1496319123030" s="true" lb="http://www.google.co.in/?gfe_rd=cr&amp;ei=kQQwWcutK-Ls8AfsopiwCg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15016" sby="221" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
